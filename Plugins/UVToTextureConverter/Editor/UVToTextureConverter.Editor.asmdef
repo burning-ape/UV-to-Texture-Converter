@@ -1,0 +1,18 @@
+{
+    "name": "UVToTextureConverter.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:16a3ca0214c809c4cbcd1a6d25de3fde"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
